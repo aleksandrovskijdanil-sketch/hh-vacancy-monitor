@@ -44,7 +44,7 @@ python -m hhmon run
 ## Установка
 
 ```bash
-git clone https://github.com/<user>/hh-vacancy-monitor
+git clone https://github.com/aleksandrovskijdanil-sketch/hh-vacancy-monitor
 cd hh-vacancy-monitor
 python -m venv .venv && .venv\Scripts\activate    # Linux/macOS: source .venv/bin/activate
 pip install -r requirements.txt
